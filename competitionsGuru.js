@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable max-len */
 const request = require('request-promise');
 const cheerio = require('cheerio');
